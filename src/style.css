@@ -1,0 +1,27 @@
+html {
+    font-size: 10px;
+}
+body {
+    border: 1px solid black;
+    padding: 1rem 3rem;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    font-family: arial;
+    font-size: 3rem;
+}
+
+button {
+    height: 5rem;
+    margin: 1rem;
+    padding: 1.5rem 3rem;
+    border-radius: .5rem;
+    border: none;
+    color:white;
+    font-size: 2rem;
+}
